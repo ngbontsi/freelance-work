@@ -67,7 +67,7 @@ export const projects: Project[] = [
     longDescription:
       'Built for a home-based food business. Features a hero image slider, interactive menu with pricing in Rand, and seamless WhatsApp integration for order placement. Responsive design with smooth animations.',
     tags: ['HTML/CSS', 'JavaScript', 'WhatsApp API', 'Responsive Design'],
-    liveUrl:'https://ngbontsi.github.io/zozo-kitchen/',
+    liveUrl:'https://ngbontsi.github.io/zozos-kitchen/',
     githubUrl: 'https://github.com/ngbontsi/zozos-kitchen',
     featured: false,
     color: 'from-orange-500/10 to-amber-500/10',
